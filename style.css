@@ -1,0 +1,163 @@
+@media(min-width:600px)
+{
+    .container { max-width: 1280px;}
+}
+.navbar-brand
+{
+    background-color: #fff;
+    width: 250px;
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    color: blue;
+}
+.navbar-brand:hover{
+    color: blue;
+}
+.swiper-slide img
+{
+    width: 100%;
+}
+
+.btn
+{
+    color: blue;
+}
+ul{
+    list-style: none;
+}
+.five
+{
+    display: flex;
+    color: orangered;
+}
+.mySwiper1 {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+}
+ul
+{
+    list-style: none;
+}
+.star
+{
+    display: flex;
+    color: orangered;
+  align-self: center;
+}
+.price
+{
+    color: blue;
+}
+.box-c button
+{
+    color: white;
+}
+.box {
+    position: relative;
+    overflow: hidden; 
+    box-shadow: 0px 0px 5px rgba(0, 113, 220 ,0.15);
+    border: 1px solid grey;
+    height: 300px;
+    border-radius: 10px;
+    text-align: center;
+}
+.box-c {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -60px;
+    background: white;
+    padding: 10px;
+    width: 100%;
+    transition: 0.9s;
+   
+}
+.box:hover .box-c {
+    bottom: 0;
+}
+.pro
+{
+    background: #4570B6;
+    color: white;
+}
+.info
+{
+    background-color: white;
+    color:#4570B6;
+    border-radius: 0 0 10px 10px;
+}
+.buy
+{
+    font-size: 20px;
+    padding: 0 105px ;
+}
+.pro img 
+{
+    border-radius: 10px 10px 0 0;
+}
+.container
+{
+    background: #FAFBFC;
+}
+.con
+{
+    width: 900px;
+    margin: auto;
+    margin-top: 25px;
+
+}
+.con row
+{
+    align-items: center;
+    margin: auto;
+}
+.con1
+{
+    margin-left: 190px;
+}
+.hh
+{
+    background: #39474F;
+    padding: 25px;
+    color: white;
+    
+}
+footer{
+    background: #39474F;
+    
+}
+.hh h5
+{
+    text-transform: uppercase;
+}
+.start{
+    color: white;
+    display: flex;
+}
+.contact
+{
+    color: white;
+}
+.add 
+{
+    color: white;
+}
+.copyright
+{
+    background: #39474F;
+    color: white;
+    
+}
+.buttons
+{
+    text-color: white;
+}
+.flex
+{
+    display: flex;
+}
+.jc
+{
+    justify-content: space-between;
+}
